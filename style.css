@@ -1,0 +1,26 @@
+    body {
+        background-color: #8BC6EC;
+        background-image: linear-gradient(211deg, #8BC6EC 24%, #a095e2 75%);
+
+    }
+    div {
+        background-color: #fb7e7e;
+        background-image: linear-gradient(62deg, #fb7e7e 0%, #f7e168 100%);
+        margin: 0%;
+        padding: 0%;
+        margin: 40px;
+        margin-left: 40px;
+    }
+
+    marquee {
+        background-color: #FFFFFF;
+        background-image: linear-gradient(204deg, #FFFFFF 0%, #6284FF 51%, #FF0000 88%, #ffffff 100%);
+    }
+
+    #port {
+        color: red;
+    }
+
+    h1 {
+        color: crimson;
+    }
